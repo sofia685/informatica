@@ -4,4 +4,4 @@ let vehículo3 = {Marca: "Lancia", Modelo:"Voyager", Year:2011, kilometraje:600,
 let vehículo4 = {Marca: "Porsche", Modelo:"Cayenne 2020", Year:2020, kilometraje:0, KPG:46.671, KPG:0.0804672 }
 let vehículos = [vehículo1, vehículo2, vehículo3, vehículo4]
 
-let conductor = {Nombre: "Alejandra", Edad: 22, Ciudad: "Barranquilla", Vehículo: Vehículo}
+let conductor = {Nombre: "Alejandra", Edad: 22, Ciudad: "Barranquilla", Vehículo: vehículos}
